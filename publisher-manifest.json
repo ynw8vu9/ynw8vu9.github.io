@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "f86ba4982cf9e114c59b6db5",
+  "owner": "ynw8vu9",
+  "repo": "ynw8vu9.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "7da16280819144952bf4202e",
+      "a": "WgetCloud",
+      "b": "官网",
+      "entity": "WgetCloud",
+      "brand": "WgetCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "40601ae9731c1ee17f762d53248ab9929936bc7f9871b58d0b12fb42aa747783",
+      "content": {
+        "primary_entity": "WgetCloud",
+        "keyword1": "WgetCloud",
+        "keyword2": "官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅信息即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选套餐，完成订阅配置即可使用。",
+          "AI_CLOSING_TITLE": "选对套餐开始连接",
+          "AI_DESCRIPTION": "，围绕设备数量、流量需求与订阅周期提供基础版、旗舰版和团队版三档套餐，方便不同场景按需对比选择。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度了解选择方式。",
+          "AI_FEATURES_TITLE": "选择套餐关注三点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度使用，旗舰版覆盖主流需求，团队版面向多人与高流量场景。",
+          "AI_FEATURE_TITLE_1": "按用量挑套餐",
+          "AI_FEATURE_TEXT_2": "同时在线设备数因套餐而异，先盘点手机、电脑和平板数量再决定档位。",
+          "AI_FEATURE_TITLE_2": "按设备定档位",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，长期使用可选年付方案，短期体验从月付开始。",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置的简单步骤。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_HERO_INTRO": "WgetCloud 提供基础版、旗舰版与团队版三档海外加速套餐，覆盖个人轻量使用到团队高流量场景，可依据设备数量与流量需求选择合适方案。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人至团队",
+          "AI_HIGHLIGHT_2": "设备数量随档位灵活变化",
+          "AI_HIGHLIGHT_3": "月付年付两种订阅周期",
+          "AI_PLANS_INTRO": "对比三档套餐的设备数量、流量与线路差异，选择符合使用习惯的方案。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先明确常用设备数量与每月大致流量消耗，确定需要哪一档套餐。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数、流量和线路说明，核对是否满足日常场景。",
+          "AI_STEP_TITLE_2": "查看套餐适配",
+          "AI_STEP_TEXT_3": "依据对应客户端的配置说明导入订阅信息，完成连接设置。",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_VISUAL_TITLE": "WgetCloud 套餐选择指南",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何根据设备数量选择套餐？",
+          "AI_FAQ_ANSWER_1": "基础版适合手机与电脑组合的轻度使用，旗舰版适合多设备用户，团队版适合小团队或家庭多终端场景。按实际在线设备规模选择即可。",
+          "AI_FAQ_QUESTION_2": "旗舰版与基础版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版流量额度更高，设备上限更多，并加入 IPLC 专线游戏加速优化与优先工单支持。基础版则满足日常浏览与基础流媒体等轻度使用场景。",
+          "AI_FAQ_QUESTION_3": "订阅信息如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "购买套餐后获取订阅信息，在所选客户端中找到订阅或配置导入入口，按客户端文档说明粘贴或导入即可。不同系统的操作路径略有差异，以对应客户端说明为准。",
+          "AI_FAQ_QUESTION_4": "按月付费和按年付费如何选择？",
+          "AI_FAQ_ANSWER_4": "按月付费灵活，适合短期试用或需求变动较大的用户；按年付费单价更低，适合长期稳定使用。三档套餐均提供按年付费方式，可根据使用周期决定。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多设备、高流量需求，支持多台设备同时在线，提供 VIP 专属高带宽节点与企业定制路由选项，并配备专属客户经理服务，适合小型团队或工作室。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "bbc16fcb5b6d4006c11dd8090e62cc8cbf00e57eeaec4a4b17af988694ba8438",
+    "sitemap.xml": "39936a432d45ab8d7dffc554c5f3e26efdb144e917495624174c82c7d3aca757",
+    "robots.txt": "2a50d6af00f967ddb734c00d755020f35c00546aa8e961143ce054076a01ba52",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "83e182f77d00f29bd27df466adaaa844341ceb124a93470f91e112ca25bf8a5f"
+}
